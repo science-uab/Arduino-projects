@@ -1,3 +1,4 @@
+//Author: Danet Mihai
 String voice;
 int RED = 2;
 int GREEN = 3;
