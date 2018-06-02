@@ -27,4 +27,4 @@ driver pentru convertorul USB - serial de pe placa (pentru a putea conecta si pr
 https://www.arduino.cc/en/Guide/HomePage https://www.arduino.cc/en/Tutorial/RobotLineFollowing http://www.instructables.com/id/Line-following-Robot-with-Arduino/
 
 
-<img src="https://imgur.com/B37bMrb" />
+<img src="https://imgur.com/tBvqgDY" />
