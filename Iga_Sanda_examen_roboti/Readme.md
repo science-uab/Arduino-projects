@@ -21,5 +21,5 @@ Pentru programare, am  avut  nevoie de:
 <img src=”1.jpg” />
 <img src=”https://imgur.com/B37bMrb.jpg” />
 
-# Image
-![alt text](https://github.com/mariusrusu80/OpenSCAD-projects/blob/master/Rusu%20Marius/fan-cooler.jpg "Printscreen")
+ "Printscreen")
+ "Printscreen")https://github.com/vorosanda/Arduino-projects/blob/master/Iga_Sanda_examen_roboti/1.JPG "Printscreen")
