@@ -22,9 +22,6 @@ Pentru programare, am  avut  nevoie de:
 
 mediul de programare  Arduino;
 driver pentru convertorul USB - serial de pe placa (pentru a putea conecta si programa placa Arduino):
--tutoriale:
-
-https://www.arduino.cc/en/Guide/HomePage https://www.arduino.cc/en/Tutorial/RobotLineFollowing http://www.instructables.com/id/Line-following-Robot-with-Arduino/
 
 
 <img src="https://imgur.com/tBvqgDY">
