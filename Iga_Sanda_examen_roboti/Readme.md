@@ -1,5 +1,7 @@
 Nume:  Iga (Voronianu) Sanda  Florina
+
 Email: vorosanda@gmail.com
+
 Master PABD anul I 2018
 
 
@@ -19,5 +21,4 @@ Pentru programare, am  avut  nevoie de:
 - driver pentru convertorul USB - serial de pe placa (pentru a putea conecta si programa placa Arduino): 
 
 
-#Image
 ![alt text](https://github.com/vorosanda/Arduino-projects/blob/master/Iga_Sanda_examen_roboti/1.JPG "Printscreen")
