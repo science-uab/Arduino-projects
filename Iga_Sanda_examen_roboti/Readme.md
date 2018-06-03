@@ -20,4 +20,4 @@ Pentru programare, am  avut  nevoie de:
 
 
 #Image
-![alt text]https://github.com/vorosanda/Arduino-projects/blob/master/Iga_Sanda_examen_roboti/1.JPG "Printscreen")
+![alt text](https://github.com/vorosanda/Arduino-projects/blob/master/Iga_Sanda_examen_roboti/1.JPG "Printscreen")
