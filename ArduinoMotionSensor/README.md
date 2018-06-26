@@ -1,4 +1,5 @@
 # Arduino-Motion Sensor Project
+# Author: Radu Goadă
 Arduino project to detect motion and active a LED on the Arduino board
 Instructions:
 You need to have:
@@ -8,5 +9,6 @@ You need to have:
 - 3 wire Cables male to female
 Install Arduino software
 Load the sketch project file
-Click Verity and then Upload to abord
-Result: it should calibrate the sensor and then wait for motion to detect it, once detected it will blink the RED Led
+Click Verify and then Upload to abord
+Result: it should calibrate the sensor and then wait for motion to detect it, once detected it will blink the RED Led.
+<img src="Diagram.png" />
